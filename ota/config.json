@@ -14,11 +14,20 @@
       "storeUrl": ""
     },
     "ota": {
-      "ios": {},
-      "android": {}
+      "ios": {
+        "1.260213.154027": {
+          "otaVersion": "1770977430050",
+          "bundleUrl": "https://raw.githubusercontent.com/mit-izonnet/atfirsttravel-ota/main/ota/staging/ios/1.260213.154027/main.jsbundle"
+        }
+      },
+      "android": {
+        "1.260213.154027": {
+          "otaVersion": "1770977431671",
+          "bundleUrl": "https://raw.githubusercontent.com/mit-izonnet/atfirsttravel-ota/main/ota/staging/android/1.260213.154027/main.jsbundle"
+        }
+      }
     }
   },
-
   "production": {
     "maintenance": false,
     "ios": {
