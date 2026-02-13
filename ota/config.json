@@ -1,4 +1,41 @@
 {
-  "otaVersion": "1.0.1",
-  "bundleUrl": "https://raw.githubusercontent.com/mit-izonnet/atfirsttravel-ota/main/ota/ios/main.jsbundle"
+  "staging": {
+    "maintenance": false,
+    "ios": {
+      "minVersion": "1.0.0",
+      "latestVersion": "1.0.0",
+      "forceUpdate": false,
+      "storeUrl": ""
+    },
+    "android": {
+      "minVersion": "1.0.0",
+      "latestVersion": "1.0.0",
+      "forceUpdate": false,
+      "storeUrl": ""
+    },
+    "ota": {
+      "ios": {},
+      "android": {}
+    }
+  },
+
+  "production": {
+    "maintenance": false,
+    "ios": {
+      "minVersion": "1.0.0",
+      "latestVersion": "1.0.0",
+      "forceUpdate": false,
+      "storeUrl": "https://apps.apple.com/app/id6758195463"
+    },
+    "android": {
+      "minVersion": "1.0.0",
+      "latestVersion": "1.0.0",
+      "forceUpdate": false,
+      "storeUrl": "https://play.google.com/store/apps/details?id=com.atfirsttravel"
+    },
+    "ota": {
+      "ios": {},
+      "android": {}
+    }
+  }
 }
