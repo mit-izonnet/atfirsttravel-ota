@@ -1,6 +1,6 @@
 {
   "staging": {
-    "maintenance": false,
+    "maintenance": true,
     "ios": {
       "minVersion": "1.0.0",
       "latestVersion": "1.0.0",
