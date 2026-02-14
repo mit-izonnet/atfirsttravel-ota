@@ -54,6 +54,10 @@
         "1.260214.150330": {
           "otaVersion": "1771061637929",
           "bundleUrl": "https://raw.githubusercontent.com/mit-izonnet/atfirsttravel-ota/main/ota/staging/ios/1.260214.150330/main.jsbundle"
+        },
+        "1.260214.181351": {
+          "otaVersion": "1771073058837",
+          "bundleUrl": "https://raw.githubusercontent.com/mit-izonnet/atfirsttravel-ota/main/ota/staging/ios/1.260214.181351/main.jsbundle"
         }
       },
       "android": {
@@ -92,6 +96,10 @@
         "1.260214.150330": {
           "otaVersion": "1771061662948",
           "bundleUrl": "https://raw.githubusercontent.com/mit-izonnet/atfirsttravel-ota/main/ota/staging/android/1.260214.150330/main.jsbundle"
+        },
+        "1.260214.181351": {
+          "otaVersion": "1771073089398",
+          "bundleUrl": "https://raw.githubusercontent.com/mit-izonnet/atfirsttravel-ota/main/ota/staging/android/1.260214.181351/main.jsbundle"
         }
       }
     }
